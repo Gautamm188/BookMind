@@ -8,3 +8,4 @@ pip install pdfplumber
 
 **After this, in the terminal use the following command:**
 streamlit run app.py
+
